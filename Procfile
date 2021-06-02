@@ -1,1 +1,1 @@
-worker: java src/main/java/io/github/adorableskullmaster/nozomi/Bot.java
+worker: java -jar target/Nozomi-jar-with-dependencies.jar
