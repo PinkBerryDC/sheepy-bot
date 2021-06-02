@@ -1,1 +1,1 @@
-worker: java -jar target/Nozomi-jar-with-dependencies.jar
+worker: java src/main/java/io/github/adorableskullmaster/nozomi/
