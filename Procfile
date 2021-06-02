@@ -1,1 +1,1 @@
-worker: java src/main/java/io/github/adorableskullmaster/nozomi/
+worker: java src/main/java/io/github/adorableskullmaster/nozomi/Bot.java
